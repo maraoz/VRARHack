@@ -1,6 +1,6 @@
-# UnityOSC
+# VR/AR Hackathon
 
-fork from [https://code.google.com/p/unity3d-tuio/](https://code.google.com/p/unity3d-tuio/)
+
 
 ## Code license
 
